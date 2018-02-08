@@ -21,7 +21,7 @@ public class BMICalculator{
     pound = keyboard.nextDouble();
 
 
-    kg = pound * .45; // converts pounds to kilograms
+    kg = pound * 0.45; // converts pounds to kilograms
 
 
     bmi = kg / (m*m); //bmi calculation formula
